@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Tapestry",
+  "base_artist": "田中有紀",
+  "createdAt": "2026-01-11T12:16:15.081148Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tapestry",
+      "artist": "Carole King",
+      "has_synced": true,
+      "path": "select/01_Tapestry_Carole_King.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Tapestry Scorned",
+      "artist": "My Dying Bride",
+      "has_synced": true,
+      "path": "select/02_A_Tapestry_Scorned_My_Dying_Bride.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tapestry",
+      "artist": "Protest the Hero",
+      "has_synced": true,
+      "path": "select/03_Tapestry_Protest_the_Hero.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rainy Tapestry",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/04_Rainy_Tapestry_Lamp.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tapestry",
+      "artist": "Moya Brennan",
+      "has_synced": true,
+      "path": "select/05_Tapestry_Moya_Brennan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tapestry",
+      "artist": "Carole King",
+      "has_synced": true,
+      "path": "select/06_Tapestry_Carole_King.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tapestry",
+      "artist": "Don McLean",
+      "has_synced": true,
+      "path": "select/07_Tapestry_Don_McLean.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tapestry of the Starless Abstract",
+      "artist": "Ne Obliviscaris",
+      "has_synced": true,
+      "path": "select/08_Tapestry_of_the_Starless_Abstract_Ne_Obliviscaris.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tapestry",
+      "artist": "Hillsong UNITED",
+      "has_synced": true,
+      "path": "select/09_Tapestry_Hillsong_UNITED.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tapestry of Me",
+      "artist": "Betraying the Martyrs",
+      "has_synced": true,
+      "path": "select/10_Tapestry_of_Me_Betraying_the_Martyrs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tapestry",
+      "artist": "Bruno Major",
+      "has_synced": true,
+      "path": "select/11_Tapestry_Bruno_Major.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tapestry",
+      "artist": "Don McLean",
+      "has_synced": false,
+      "path": "select/12_Tapestry_Don_McLean.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tapestry",
+      "artist": "Mike",
+      "has_synced": true,
+      "path": "select/13_Tapestry_Mike.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tapestry ひと夏のタベストリ",
+      "artist": "Tomoko Aran",
+      "has_synced": true,
+      "path": "select/14_Tapestry_ひと夏のタベストリ_Tomoko_Aran.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tapestry of Scars",
+      "artist": "Autopsy",
+      "has_synced": false,
+      "path": "select/15_Tapestry_of_Scars_Autopsy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tapestry",
+      "artist": "田中有紀",
+      "has_synced": false,
+      "path": "select/pl_01_Tapestry_田中有紀.txt"
+    }
+  ]
+}
